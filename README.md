@@ -1,3 +1,3 @@
 # linkHost
 
-Gets IPv4 adress of the URL given.
+Gets IPv4 adress of the given URL.
