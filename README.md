@@ -3,4 +3,4 @@
 Gets public IPv4 address of the given URL.
 
 Usage:
- - Compile: `go build main.go`
+ - `fetchip <URL>` or `fetchip` (gives your own IP address)
